@@ -26,6 +26,7 @@ Allowing new classes to be based on existing classes, inheriting their attribute
 ## 4. Polymorphism
 
 The ability of objects to take on multiple forms and respond to the same method call differently based on their specific implementation.
+![image](https://github.com/user-attachments/assets/f877345f-face-4724-b7da-32b5e4f4acfe)
 
 ```mermaid
 classDiagram
@@ -66,6 +67,8 @@ Many client-specific interfaces are better than one general-purpose interface.
 
 High-level modules should not depend on low-level modules. Both should depend on abstractions.
 
+![image](https://github.com/user-attachments/assets/f41a0c60-3d8e-433a-b635-e0b0fd77db20)
+
 ```mermaid
 graph TD
     A[SOLID Principles] --> B[Single Responsibility]
@@ -102,6 +105,8 @@ These patterns deal with communication between objects. Examples include:
 - Observer: Defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified.
 - Strategy: Defines a family of algorithms, encapsulates each one, and makes them interchangeable.
 - Command: Encapsulates a request as an object, allowing parameterization of clients with queues, requests, and operations.
+![image](https://github.com/user-attachments/assets/68ced203-d70e-427d-90c6-ff0ad37d7e21)
+
 
 ```mermaid
 graph TD
@@ -121,6 +126,7 @@ These concepts form the foundation of modern software design and architecture, p
 # Grading Process for Students:
 
 # Class Diagram
+![image](https://github.com/user-attachments/assets/3108e8ff-610a-46b2-9cd5-9c13b974f849)
 
 ```mermaid
 classDiagram
