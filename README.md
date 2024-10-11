@@ -3,6 +3,7 @@
 Member name:
 
 - Tran Hoang Doanh  - ITITWE23016
+- Nguyễn Thiện Nghĩa  - ITDSIU20071
 
 # Concept of OOP, SOLID and Designing Pattern
 
